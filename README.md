@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Leandro Salvañá</h1>
 <div align="center">
 
-[![Artificial Intelligence](https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%23BB0000&style=for-the-badge)](https://)
+[![Artificial Intelligence](
+https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%23BB0000&style=for-the-badge)](https://)
 [![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine+Learning&color=%23415A77&style=for-the-badge)](https://)
 [![Data Science](https://img.shields.io/static/v1?label=&message=Data+Science&color=%23A74482&style=for-the-badge)](https://)
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=linkedin)](https://)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-salva%C3%B1%C3%A1/?locale=en_US)
 [![Email](https://img.shields.io/static/v1?label=&message=Email&color=%23EA4335&style=for-the-badge&logo=maildotru)](mailto:leandrosalvana@gmail.com)
 
 </div>
