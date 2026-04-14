@@ -41,7 +41,7 @@ https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%2
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-salva%C3%B1%C3%A1/?locale=en_US)
 [![Email](https://img.shields.io/static/v1?label=&message=Email&color=%23EA4335&style=for-the-badge&logo=maildotru)](mailto:leandrosalvana@gmail.com)
-
+<!--
 </div>
 
 <h2 align="center">Languages and Tools</h2>
@@ -66,7 +66,7 @@ https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%2
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+-->
 
 </div>
 
