@@ -29,7 +29,11 @@ https://img.shields.io/static/v1?label=&message=Artificial+Intelligence&color=%2
 <div align="center">
 
 ⚡ I am passionate about the wealth of knowledge that data can offer. My fascination with artificial intelligence and machine learning is rooted in the transformation of conventional software engineering programming. While these professionals typically employ logic and mathematics to build algorithms and obtain results, machine learning encourages us to approach problems differently, turning them into a more natural science. In this approach, we make observations in an uncertain world, conduct experiments, and apply statistical techniques to analyze the results obtained.
+
+
 💼 I'm currently working at a company that provides artificial intelligence solutions to businesses, in the machine learning model development area.
+
+
 🌐 Contact me:
 
 </div>
